@@ -8,12 +8,12 @@ body{
     font-family: 'Montserrat', sans-serif;
   }
   .head{
+      color: white;
       margin-left: 40px;
       font-weight: 500;
       /* padding: 20px auto; */
   }
   .head h1{
-      color: white;
       transition: 0.5s;
   }
   @media screen and (min-width: 692px)
